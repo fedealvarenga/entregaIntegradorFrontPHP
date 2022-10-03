@@ -1,0 +1,47 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.font-size-small{ 
+  font-size: .55rem;
+  }
+
+.form-control-dark {
+  border-color: var(--bs-gray);
+}
+.form-control-dark:focus {
+  border-color: #fff;
+  box-shadow: 0 0 0 .25rem rgba(255, 255, 255, .25);
+}
+
+.text-small {
+  font-size: 85%;
+}
+
+.dropdown-toggle {
+  outline: 0;
+}
+.btn-green {
+  background-color: rgba(150,201,62,255);
+  color:white;
+}
+.btn-gris {
+  background-color: rgba(53,58,64,255);
+  border-color: white;
+  color:white;
+}
+.btn-g{
+  background-color:rgba(40,167,68,255);
+  color:white;
+}
+.text-bg-gris{
+  background-color: rgba(53,58,64,255);
+}
+.footer-azul{
+  background: linear-gradient(to left, #1d5271,#1c3949);
+}
+
+.a-mod{
+  display: inline-block;
+  width:90px;
+}
